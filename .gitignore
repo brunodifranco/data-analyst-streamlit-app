@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-.venv_streamlit
+/.venv_streamlit
 
 # Distribution / packaging
 .Python
